@@ -3,10 +3,4 @@ var playlist = {
   ed: "perfect"
 };
 
-Function updatePlaylist (playlist, artistName, songTitle){
-  Object.assign(playlist,{artistName: songTitle})
-  return playlist
-}
-
-
 
