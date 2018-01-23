@@ -3,3 +3,7 @@ var playlist = {
   ed: "perfect"
 };
 
+function updatePlaylist (playlist, artistName, songTitle){
+  playlist["artistName"] = songTitle
+  return playlist
+}
