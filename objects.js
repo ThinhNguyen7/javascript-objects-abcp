@@ -1,6 +1,6 @@
 var playlist = {
   camila: "havana",
-  ed: "perfect"
+  ed sheeran: "perfect"
 };
 
 function updatePlaylist (playlist, artistName, songTitle){
